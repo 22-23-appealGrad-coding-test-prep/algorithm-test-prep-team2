@@ -84,10 +84,10 @@
 1. organization 리포지토리(원본 리포로 지칭)를 fork한다.
 
 2. fork한 개인 리포를 로컬에 clone한다.
-   - 예시) ```git clone https://github.com/pione3r/algorithm-test-prep.git```
+   - 예시) ```git clone https://github.com/22-23-appealGrad-coding-test-prep/algorithm-test-prep-team2.git```
   
 3. 원본 리포를 로컬에 upstream 원격 저장소로 추가한다.
-   - ```git remote add upstream https://github.com/22-23-appealGrad-coding-test-prep/algorithm-test-prep.git```
+   - ```git remote add upstream https://github.com/22-23-appealGrad-coding-test-prep/algorithm-test-prep-team2.git```
   
 4. 문제를 풀기 전, 원본 리포의 내용을 로컬에 fetch한다.
    - ```git fetch upstream```
